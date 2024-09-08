@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS projects\\CalculationArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D46FD1F-AD43-4087-B46B-6EAA7B032CF6}|CalculationArea\\CalculationArea.csproj|d:\\vs projects\\calculationarea\\calculationarea\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D46FD1F-AD43-4087-B46B-6EAA7B032CF6}|CalculationArea\\CalculationArea.csproj|solutionrelative:calculationarea\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A5D4F-F76B-4E3D-A8EE-75DB3D6121F1}|CalculationAreaTests\\CalculationAreaTests.csproj|d:\\vs projects\\calculationarea\\calculationareatests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1A5D4F-F76B-4E3D-A8EE-75DB3D6121F1}|CalculationAreaTests\\CalculationAreaTests.csproj|solutionrelative:calculationareatests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1A5D4F-F76B-4E3D-A8EE-75DB3D6121F1}|CalculationAreaTests\\CalculationAreaTests.csproj|d:\\vs projects\\calculationarea\\calculationareatests\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1A5D4F-F76B-4E3D-A8EE-75DB3D6121F1}|CalculationAreaTests\\CalculationAreaTests.csproj|solutionrelative:calculationareatests\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D46FD1F-AD43-4087-B46B-6EAA7B032CF6}|CalculationArea\\CalculationArea.csproj|d:\\vs projects\\calculationarea\\calculationarea\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D46FD1F-AD43-4087-B46B-6EAA7B032CF6}|CalculationArea\\CalculationArea.csproj|solutionrelative:calculationarea\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D46FD1F-AD43-4087-B46B-6EAA7B032CF6}|CalculationArea\\CalculationArea.csproj|d:\\vs projects\\calculationarea\\calculationarea\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D46FD1F-AD43-4087-B46B-6EAA7B032CF6}|CalculationArea\\CalculationArea.csproj|solutionrelative:calculationarea\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "D:\\VS projects\\CalculationArea\\CalculationAreaTests\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "CalculationAreaTests\\TriangleTests.cs",
+              "ToolTip": "D:\\VS projects\\CalculationArea\\CalculationAreaTests\\TriangleTests.cs",
+              "RelativeToolTip": "CalculationAreaTests\\TriangleTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvykAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:22:08.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\VS projects\\CalculationArea\\CalculationArea\\Circle.cs",
+              "RelativeDocumentMoniker": "CalculationArea\\Circle.cs",
+              "ToolTip": "D:\\VS projects\\CalculationArea\\CalculationArea\\Circle.cs",
+              "RelativeToolTip": "CalculationArea\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:53:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\VS projects\\CalculationArea\\CalculationArea\\Triangle.cs",
+              "RelativeDocumentMoniker": "CalculationArea\\Triangle.cs",
+              "ToolTip": "D:\\VS projects\\CalculationArea\\CalculationArea\\Triangle.cs",
+              "RelativeToolTip": "CalculationArea\\Triangle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:52:42.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\VS projects\\CalculationArea\\CalculationArea\\IShape.cs",
+              "RelativeDocumentMoniker": "CalculationArea\\IShape.cs",
+              "ToolTip": "D:\\VS projects\\CalculationArea\\CalculationArea\\IShape.cs",
+              "RelativeToolTip": "CalculationArea\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:52:08.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircleTests.cs",
+              "DocumentMoniker": "D:\\VS projects\\CalculationArea\\CalculationAreaTests\\CircleTests.cs",
+              "RelativeDocumentMoniker": "CalculationAreaTests\\CircleTests.cs",
+              "ToolTip": "D:\\VS projects\\CalculationArea\\CalculationAreaTests\\CircleTests.cs",
+              "RelativeToolTip": "CalculationAreaTests\\CircleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:35:07.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

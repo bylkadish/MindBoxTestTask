@@ -1,0 +1,26 @@
+Тестовое задание для mindbox
+
+1) Опыта веб-разработки не было
+
+3)  SELECT 
+      P.ProductName, 
+      C.CategoryName
+    FROM 
+      Products P
+    LEFT JOIN 
+      ProductCategories PC ON P.ProductID = PC.ProductID
+    LEFT JOIN 
+      Categories C ON PC.CategoryID = C.CategoryID;
+
+В нашей БД будет такая структура таблиц:
+  Products:
+    ProductID
+    ProductName
+  Categories:
+    CategoryID
+    CategoryName
+  ProductCategories: (таблица связка категорий и продуктов, т.к. отношение М:М)
+    ProductID
+    CategoryID
+    
+5) Да, я готов выйти на фуллтайм удалённо, главное, чтобы не сильно мешалось с учёбой.
